@@ -1,2 +1,2 @@
 # whoops-cli
-CLI application for whoops.io
+CLI application for https://whoops.io
